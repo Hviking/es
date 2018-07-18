@@ -1,2 +1,1 @@
-# es
-es6
+#cp-lessons
